@@ -10,6 +10,7 @@ My goal is to document my technical growth step-by-step and build a solid, organ
 
 ### 📂 1. Getting Started (HTB Basics)
 *   **[Infosec Overview](./1.0-infosec-overview.md)** - Core security pillars (CIA Triad) and Red vs. Blue team dynamics.
+*   **[SSH & Shell Fundamentals](./01-ssh-fundamentals.md)** - Simplified explanation of SSH, key-based authentication, and shell stability.
 *   **[Staying Organized](./1.1-staying-organized.md)** - Best practices for professional folder structures and note-taking.
 *   **[Connecting Using VPN](./1.3-connecting-vpn.md)** - Securely routing attack traffic via OpenVPN to target networks.
 *   **[Common Terms](./1.4-common-terms.md)** - Key dictionary: Shell types (Reverse/Bind), Web Server architectures, and Ports.
