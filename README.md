@@ -1,4 +1,4 @@
-# My Cybersecurity Notes 🚀
+# My Cybersecurity Notes 
 
 Welcome to my repository! I am a 17-year-old aspiring **Penetration Tester**, and this space serves as my digital logs. Here, I document simplified notes, useful commands, and cheat sheets based on my learning journey through **Hack The Box Academy**.
 
